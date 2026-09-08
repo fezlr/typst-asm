@@ -68,7 +68,7 @@
   ]
 ])
 
-#v(2.15em)
+#v(1.15em)
 
 #align(right)[
   #block(width: auto)[
